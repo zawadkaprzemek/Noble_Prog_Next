@@ -1,0 +1,13 @@
+version: '2.4'
+
+services:
+  next:
+    build:
+      context: .
+      args:
+        - NODE_ENV=development
+    volumes:
+      - .:/app
+    ports:
+      - 3030:3000
+    command: yarn dev
