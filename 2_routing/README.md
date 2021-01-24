@@ -19,5 +19,5 @@ const postacie  = require ('../utils/sample-data')
 
 postacie.filter(x => x.human === true) // przykładowe filtrowanie danych
 
-`
+```
 
