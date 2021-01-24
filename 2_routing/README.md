@@ -12,7 +12,7 @@ Stwórz route dla:
 Następnie spróbuj z hooka useRouter wyciągnać dane na temat zapytania i na ich podstawie wyszukać w pliku `utils/sample-data.ts` postacie na które wskazuje routing.
 
 Podpowiedz:
-`
+``` javascript
 const route = useRouter(); //dane z route
 
 const postacie  = require ('../utils/sample-data')
