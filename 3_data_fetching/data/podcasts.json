@@ -1,0 +1,618 @@
+{
+    "items": [
+        {
+            "id": 217,
+            "title": "Najciekawsze reportaże w Polsce",
+            "description": "Reportażyści Studia Reportażu i Dokumentu Polskiego Radia jeżdżą po Polsce i świecie w poszukiwaniu ciekawych spraw i ludzi. Wielokrotnie inicjatorami podejmowanych przez nas tematów są sami słuchacze. Liczne telefony, listy i e-maile kierowane do redakcji są dowodem na to, że wysiłek reportażystów ma sens, że są potrzebni, że ich trud poprawiania świata przynosi konkretne, społecznie oczekiwane efekty.",
+            "radioStation": "Studio Reportażu i Dokumentu",
+            "audition": "https://podcasty.polskieradio.pl/",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/1928a395-2853-4d09-9472-5fb0ebee2a31",
+            "itunesKeywords": "radio, reportaż, dokument, historia, społeczeństwo, Polskie Radio",
+            "itunesCategory": "Society & Culture",
+            "creationDate": "2021-01-21T07:19:13.643Z",
+            "guid": "1928a395-2853-4d09-9472-5fb0ebee2a31",
+            "viewCount": 3,
+            "itemCount": 23,
+            "lastItemUpdate": "2021-01-23T20:15:00Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/bfcd6e4c-3b01-4e5a-ab16-5c839037667c.jpg",
+                "landscape": "https://static.prsa.pl/images/69af4dff-93d8-415d-8fa0-227d86d35113.jpg",
+                "thumbnail": "https://static.prsa.pl/images/017dd4f0-8d9b-4c1e-836b-81b258b35c2d.jpg",
+                "recommended": "https://static.prsa.pl/images/79a93e87-1e21-48c6-a8d9-16ba6b1d6211.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": null
+                }
+            ],
+            "announcer": " ",
+            "announcerImg": "",
+            "email": "listy@polskieradio.pl     ",
+            "socials": null
+        },
+        {
+            "id": 216,
+            "title": "Słowem: muzyka",
+            "description": "Cykl podcastów dotyczący polskich książek o muzyce: rozmowy z autorami, muzykami. Biografie, autobiografie, leksykony, antologie – jednym słowem: muzyka",
+            "radioStation": "Czwórka",
+            "audition": "https://podcasty.polskieradio.pl/216",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/a556ac1c-2101-42bb-81f4-2574c876aa8c",
+            "itunesKeywords": "muzyka, polska muzyka, książka",
+            "itunesCategory": "Music",
+            "creationDate": "2020-12-29T10:00:25.31Z",
+            "guid": "a556ac1c-2101-42bb-81f4-2574c876aa8c",
+            "viewCount": 3,
+            "itemCount": 1,
+            "lastItemUpdate": "2021-01-15T13:05:08Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/28dac218-163d-44b3-afd3-a411d06d1e04.jpg",
+                "landscape": "https://static.prsa.pl/images/fb81ad20-226a-4a0f-8646-0f5d689a1b0e.jpg",
+                "thumbnail": "https://static.prsa.pl/images/6a032712-8b80-4e29-94c9-4fec02388fc6.jpg",
+                "recommended": "https://static.prsa.pl/images/d1497617-6063-4689-8e14-d32e02303d62.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": null
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": null
+                }
+            ],
+            "announcer": "Norbert Borzym, Mirosław Dzięciołowski „Maken”, Bartek Kozicznyński, Ula Kaczyńska, Maciej Szajkowski, Michał Witak „ Numer Raz”",
+            "announcerImg": "https://static.prsa.pl/images/7c50252d-6ba9-473f-9915-842a7543a7af.jpg",
+            "email": "czworka@polskieradio.pl",
+            "socials": {
+                "img": "//static.prsa.pl/7e772aa7-0b5a-4438-8296-f0b898099831.file",
+                "site": "https://www.polskieradio.pl/10,Czworka",
+                "socialMedia": {
+                    "fb": "https://www.facebook.com/czworka",
+                    "twitter": "https://twitter.com/radiowaczworka",
+                    "yt": "https://www.youtube.com/channel/UClkwg7PkE3YiO9AnlNIjZhg"
+                }
+            }
+        },
+        {
+            "id": 213,
+            "title": "Ale kosmos!",
+            "description": "Tu znajdziesz tematy astronomiczne i astronautyczne m.in  czarne dziury, galaktyki, teleskopy dla hobbystów i sprzęt naukowców , najnowsze misje sond kosmicznych. Goście związani z odkryciami dotyczącymi Kosmosu i konstruowaniem sond kosmicznych.",
+            "radioStation": "Czwórka",
+            "audition": "https://podcasty.polskieradio.pl/",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/a39c3781-0936-4151-a368-f3e3422a2b1a",
+            "itunesKeywords": "astronomia, kosmos, nauka, astronautyka, teleskop ",
+            "itunesCategory": "Science",
+            "creationDate": "2020-12-07T08:03:52.957Z",
+            "guid": "a39c3781-0936-4151-a368-f3e3422a2b1a",
+            "viewCount": 514,
+            "itemCount": 4,
+            "lastItemUpdate": "2021-01-08T12:14:42Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/ccbf5e01-e3a1-47ce-93ea-95b0f19c4d67.jpg",
+                "landscape": "https://static.prsa.pl/images/fa10e6bb-d341-497b-8c31-2f4fd28074bd.jpg",
+                "thumbnail": "https://static.prsa.pl/images/48fba17c-d229-4439-93df-063ae83cea4f.jpg",
+                "recommended": "https://static.prsa.pl/images/2524aef0-99eb-40eb-8299-ba907648ad8a.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": "https://player.fm/series/series-2860238",
+                    "status": "Active"
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": "W podkascie brakuje odcinków"
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": "W podkascie brakuje odcinków"
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": "W podkascie brakuje odcinków"
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": "Podkast został już dodany"
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": "Podkast został już dodany"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Oczekuje na akceptację w serwisie podkastowym (4-5 dni)"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Oczekuje na akceptację w serwisie podkastowym (4-5 dni)"
+                }
+            ],
+            "announcer": "Mateusz Borkowicz",
+            "announcerImg": "https://static.prsa.pl/images/dd56172f-51fb-4646-a67b-20b6956163b9.jpg",
+            "email": "czworka@polskieradio.pl",
+            "socials": {
+                "img": "//static.prsa.pl/7e772aa7-0b5a-4438-8296-f0b898099831.file",
+                "site": "https://www.polskieradio.pl/10,Czworka",
+                "socialMedia": {
+                    "fb": "https://www.facebook.com/czworka",
+                    "twitter": "https://twitter.com/radiowaczworka",
+                    "yt": "https://www.youtube.com/channel/UClkwg7PkE3YiO9AnlNIjZhg"
+                }
+            }
+        },
+        {
+            "id": 212,
+            "title": "Szkiełko i oko",
+            "description": "Dorota Kania wraz ze swoimi gośćmi, którymi są ludzie ze świata polityki oraz nauki, komentuje najważniejsze wydarzenia z polskiego życia publicznego i zastanawia się, jakie przełożenie mają na funkcjonowanie społeczeństwa.",
+            "radioStation": "PR 24",
+            "audition": "https://podcasty.polskieradio.pl/",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/50b5de6f-401e-427d-8849-5159088e1b52",
+            "itunesKeywords": "Polityka, Kultura, Społeczeństwo, Nauka",
+            "itunesCategory": "Society & Culture",
+            "creationDate": "2020-11-24T15:35:31.583Z",
+            "guid": "50b5de6f-401e-427d-8849-5159088e1b52",
+            "viewCount": 1806,
+            "itemCount": 30,
+            "lastItemUpdate": "2021-01-21T20:34:00Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/213fc75b-96b3-437b-880f-f5e3b444302d.jpg",
+                "landscape": "https://static.prsa.pl/images/a69aa87e-9168-4930-a234-1e95edac8c9c.jpg",
+                "thumbnail": "https://static.prsa.pl/images/5caca6b8-ad7f-4f85-95bb-34eb12fc9bd7.jpg",
+                "recommended": "https://static.prsa.pl/images/ac2949d4-2141-4af3-90fe-ea48c7bab27a.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                }
+            ],
+            "announcer": "Dorota Kania",
+            "announcerImg": "https://static.prsa.pl/images/ecd0f767-1a8f-4da0-b89c-f2dc3c6cc2d2.jpg",
+            "email": " kontakt@polskieradio24.pl",
+            "socials": null
+        },
+        {
+            "id": 211,
+            "title": "Dźwiękowe kalendarium historyczne ",
+            "description": "Z jakim ważnym wydarzeniem jest związana konkretna data? Co danego dnia w przeszłości wydarzyło się istotnego dla historii Polski i świata?",
+            "radioStation": "PR 24",
+            "audition": "https://podcasty.polskieradio.pl/",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/3895390c-03fd-4fb8-b6d4-f4145579d737",
+            "itunesKeywords": "Historia, Polska, Świat, Kalendarium  ",
+            "itunesCategory": "History",
+            "creationDate": "2020-11-24T13:18:27.563Z",
+            "guid": "3895390c-03fd-4fb8-b6d4-f4145579d737",
+            "viewCount": 2407,
+            "itemCount": 37,
+            "lastItemUpdate": "2021-01-22T06:10:48Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/427a9891-0a3c-4b6e-94dd-7168bc23e0cc.jpg",
+                "landscape": "https://static.prsa.pl/images/bf82f400-1ae2-45e9-92f1-2031231f946a.jpg",
+                "thumbnail": "https://static.prsa.pl/images/6447f354-938c-4f7a-a02e-fa33376270ac.jpg",
+                "recommended": "https://static.prsa.pl/images/164d6e9b-e568-4bea-9f0f-66c9d466fc9d.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                }
+            ],
+            "announcer": "Elwira Kaganowicz",
+            "announcerImg": "https://static.prsa.pl/images/ecd0f767-1a8f-4da0-b89c-f2dc3c6cc2d2.jpg",
+            "email": " kontakt@polskieradio24.pl",
+            "socials": null
+        },
+        {
+            "id": 210,
+            "title": "W cieniu afer",
+            "description": "Tajemnicze zabójstwa, głośne afery, porachunki grup przestępczych, walka z przestępczością. W audycji rozmowa o wydarzeniach, które wstrząsały opinią publiczną w Polsce",
+            "radioStation": "PR 24",
+            "audition": "https://podcasty.polskieradio.pl/210",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/9129a106-322f-40a4-a7d3-916a6bd7aaa9",
+            "itunesKeywords": "Polityka, Polska, Przestępczość, Mafia, Afera",
+            "itunesCategory": "True Crime",
+            "creationDate": "2020-11-24T13:13:34.53Z",
+            "guid": "9129a106-322f-40a4-a7d3-916a6bd7aaa9",
+            "viewCount": 2460,
+            "itemCount": 25,
+            "lastItemUpdate": "2021-01-17T20:30:00Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/bcc9f247-482a-42ef-b463-1643d0942ddb.jpg",
+                "landscape": "https://static.prsa.pl/images/06039477-ca36-4b2d-8e01-fcdb4c97e643.jpg",
+                "thumbnail": "https://static.prsa.pl/images/c19acb81-f048-4d72-8abf-b47bdc20e41a.jpg",
+                "recommended": "https://static.prsa.pl/images/c9c414fb-70c4-45f0-88fd-a78834219d11.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Oczekuje na akceptację w serwisie podkastowym (4-5 dni)"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Oczekuje na akceptację w serwisie podkastowym (4-5 dni)"
+                }
+            ],
+            "announcer": "Piotr Nisztor",
+            "announcerImg": "https://static.prsa.pl/images/ecd0f767-1a8f-4da0-b89c-f2dc3c6cc2d2.jpg",
+            "email": " kontakt@polskieradio24.pl",
+            "socials": null
+        },
+        {
+            "id": 209,
+            "title": "Sztuka słuchania",
+            "description": "Najważniejsze wydarzenia polityczne tygodnia komentują przedstawiciele największych partii w polskim parlamencie",
+            "radioStation": "PR 24",
+            "audition": "https://podcasty.polskieradio.pl/209",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/2a92eb97-74a5-4705-a07a-792007137cbe",
+            "itunesKeywords": "Polityka, Polska, Sejm, Parlament",
+            "itunesCategory": "News",
+            "creationDate": "2020-11-24T13:10:48.44Z",
+            "guid": "2a92eb97-74a5-4705-a07a-792007137cbe",
+            "viewCount": 1768,
+            "itemCount": 267,
+            "lastItemUpdate": "2021-01-23T10:17:00Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/186368cd-459c-41d6-813d-094db8e5d23f.jpg",
+                "landscape": "https://static.prsa.pl/images/8caa720c-7b23-49ca-bc47-bd577f8f40d6.jpg",
+                "thumbnail": "https://static.prsa.pl/images/da9da5ca-c60a-4765-a934-5d8f6d42a25c.jpg",
+                "recommended": "https://static.prsa.pl/images/cec95557-8cab-4646-89a1-0f8a79ad1fe5.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                }
+            ],
+            "announcer": "Małgorzata Raczyńska-Weinsberg",
+            "announcerImg": "https://static.prsa.pl/images/ecd0f767-1a8f-4da0-b89c-f2dc3c6cc2d2.jpg",
+            "email": " kontakt@polskieradio24.pl",
+            "socials": null
+        },
+        {
+            "id": 208,
+            "title": "Spojrzenie na Wschód",
+            "description": "Audycja poświęcona wydarzeniom we wschodniej Europie i Azji",
+            "radioStation": "PR 24",
+            "audition": "https://podcasty.polskieradio.pl/208",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/b3707a47-60a8-4e03-bbe3-ed93d4d1dea0",
+            "itunesKeywords": "Polityka, Rosja, Ukraina, Białoruś, Europa, Europa Wschodnia, Polityka międzynarodowa",
+            "itunesCategory": "News",
+            "creationDate": "2020-11-24T13:05:02.54Z",
+            "guid": "b3707a47-60a8-4e03-bbe3-ed93d4d1dea0",
+            "viewCount": 566,
+            "itemCount": 187,
+            "lastItemUpdate": "2021-01-20T20:15:00Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/a5d5c5ba-d232-414d-9e7f-b1fa41a21246.jpg",
+                "landscape": "https://static.prsa.pl/images/3fe8f0cf-8da6-40e2-963d-9a771d4bae56.jpg",
+                "thumbnail": "https://static.prsa.pl/images/11a78d0f-411b-41c1-bc21-89caa463c902.jpg",
+                "recommended": "https://static.prsa.pl/images/74631cf4-a3e2-478b-8025-21a3b152eb13.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": null,
+                    "status": "Błąd (sprawdź poprawność RSS podkastu)"
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": "Błąd (sprawdź poprawność RSS podkastu)"
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": "Błąd (sprawdź poprawność RSS podkastu)"
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": "Błąd (sprawdź poprawność RSS podkastu)"
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": "Błąd (sprawdź poprawność RSS podkastu)"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Błąd (sprawdź poprawność RSS podkastu)"
+                }
+            ],
+            "announcer": "Maria Przełomiec",
+            "announcerImg": "https://static.prsa.pl/images/ecd0f767-1a8f-4da0-b89c-f2dc3c6cc2d2.jpg",
+            "email": " kontakt@polskieradio24.pl",
+            "socials": null
+        },
+        {
+            "id": 207,
+            "title": "Konfrontacje idei",
+            "description": "Zaproszeni do studia goście dyskutują o przeszłości, teraźniejszości i przyszłości.",
+            "radioStation": "PR 24",
+            "audition": "https://podcasty.polskieradio.pl/207",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/31c72563-adc3-4af4-bb29-37a2ba6dc3e0",
+            "itunesKeywords": "Polityka, Filozofia, Społeczeństwo, Historia, Unia Europejska, Europa, Polska",
+            "itunesCategory": "Society & Culture",
+            "creationDate": "2020-11-24T12:53:18.92Z",
+            "guid": "31c72563-adc3-4af4-bb29-37a2ba6dc3e0",
+            "viewCount": 2965,
+            "itemCount": 111,
+            "lastItemUpdate": "2021-01-24T08:20:00Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/c2c4f562-f519-4d82-bae5-c0d2500ae44f.jpg",
+                "landscape": "https://static.prsa.pl/images/74890e5c-b67d-4f03-b485-fac922db7414.jpg",
+                "thumbnail": "https://static.prsa.pl/images/62f7835a-f025-4516-a145-bf93a8759994.jpg",
+                "recommended": "https://static.prsa.pl/images/94e9d303-89dc-48af-a1ee-389a6e54288e.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                }
+            ],
+            "announcer": "Zdzisław Krasnodębski",
+            "announcerImg": "https://static.prsa.pl/images/ecd0f767-1a8f-4da0-b89c-f2dc3c6cc2d2.jpg",
+            "email": " kontakt@polskieradio24.pl",
+            "socials": null
+        },
+        {
+            "id": 206,
+            "title": "Terlikowski na froncie",
+            "description": "Współczesny świat pełen jest relatywizmu moralnego. Bardzo łatwo o złe wybory, które mogą skutkować nawet zmarnowanym życiem. Już nie tylko duchowni, ale coraz częściej dziennikarze, osoby publiczne decydują się ewangelizować. Głośno i odważnie mówią o tym, co jest dobre a co złe, w sferze naszej moralności, duchowości, płciowości.",
+            "radioStation": "PR 24",
+            "audition": "https://podcasty.polskieradio.pl/206",
+            "language": "pl",
+            "podcastUrl": "https://www.polskieradio.pl/Podcast/0fb1619b-3fb2-4cf3-84ed-f7167067b0b0",
+            "itunesKeywords": "Religia, Wiara, Chrześcijaństwo, Katolicyzm, Kościół katolicki",
+            "itunesCategory": "Religion & Spirituality",
+            "creationDate": "2020-11-24T12:47:18.613Z",
+            "guid": "0fb1619b-3fb2-4cf3-84ed-f7167067b0b0",
+            "viewCount": 3412,
+            "itemCount": 126,
+            "lastItemUpdate": "2021-01-20T20:01:00Z",
+            "image": {
+                "main": "https://static.prsa.pl/images/468779d2-b787-4c8a-ae29-2340e11d83cb.jpg",
+                "landscape": "https://static.prsa.pl/images/6cf38fad-967d-4c25-8e9f-d95b846f5d07.jpg",
+                "thumbnail": "https://static.prsa.pl/images/c40cd4ff-6a88-4cf4-968e-ab5ee5c4b4e5.jpg",
+                "recommended": "https://static.prsa.pl/images/c545d8f4-0f56-49b8-850a-cf8ce1f9d412.jpg"
+            },
+            "streamingServices": [
+                {
+                    "name": "PlayerFm",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Addict",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Stitcher",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "Spotify",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "GooglePodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                },
+                {
+                    "name": "ITunesPodcast",
+                    "link": null,
+                    "status": "Kolejka tymczasowo wstrzymana"
+                }
+            ],
+            "announcer": "Tomasz Terlikowski",
+            "announcerImg": "https://static.prsa.pl/images/ecd0f767-1a8f-4da0-b89c-f2dc3c6cc2d2.jpg",
+            "email": " kontakt@polskieradio24.pl",
+            "socials": null
+        }
+    ],
+    "count": 119,
+    "page": 1,
+    "pageSize": 10
+}
