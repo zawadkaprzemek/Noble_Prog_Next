@@ -10,7 +10,7 @@
 A następnie wyślij go metodą POST na adres: `/api/kontakt`
 
 2. Zwaliduj formularz przy pomocy React.js.
-3. Stwórz endpoint `/pages/api/kontakt.js`. Pobierz i zwaliduj dane z formularza. Zadbaj o to żeby walidacja była bardziej restrykcyjna niż w wypadku walidacji frontnedowej. Zapisz dane z formularza do pliku `/data/users.js` i zwróc w response informację o tym czy dane zostały zapisane.
-4. Po otrzymaniu odpowiedzi z Api komponent react'owy powinien wyrenderować informację o tym czy udało się wysłać wiadomość czy nie.
+3. Stwórz endpoint `/pages/api/kontakt.js`. Pobierz i zwaliduj dane z formularza. Zadbaj o to żeby walidacja była bardziej restrykcyjna niż w wypadku walidacji frontendowej. Zapisz dane z formularza do pliku `/data/users.js` i zwróć w response informację o tym czy dane zostały zapisane.
+4. Po otrzymaniu odpowiedzi z API komponent react'owy powinien wyrenderować informację o tym czy udało się wysłać wiadomość czy nie.
 
 
