@@ -7,4 +7,6 @@
 export type User = {
   id: number
   name: string
+  human: boolean
+  profession: string
 }

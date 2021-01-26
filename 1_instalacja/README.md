@@ -12,4 +12,4 @@ Warto sprawdzić jaką masz wersję node.js na komputerze a także czy masz zain
 
 Pamiętaj, że używając next.js z docker musisz instlaować paczki npm wewnątrz contenera dockerowego a nie na swojej maszynie.
 
-3. Jeśli zaznajomiłeś się już ze strukturą plików w next.js spróbuj dodać dwie nowe strony `/about` i `/kontakt` do projektu.
+3. Jeśli zaznajomiłeś się już ze strukturą plików w next.js spróbuj dodać dwie nowe strony `/about` i `/contact` do projektu.
